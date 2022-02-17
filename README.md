@@ -1,8 +1,8 @@
 # Spring Boot API with Angular PWA
  
-Example app that shows how to create a Spring Boot API and display its data with an Angular PWA that works offline.
+Aplicativo de exemplo que mostra como criar uma API Spring Boot e exibir seus dados com um Angular PWA que funciona offline.
 
-To see how this application was created, please read [Build Your First Progressive Web Application with Angular and Spring Boot](http://developer.okta.com/blog/2017/05/09/progressive-web-applications-with-angular-and-spring-boot) on the Okta Developer blog.
+Para ver como este aplicativo foi criado, leia Build Your First Progressive Web Application with Angular and Spring Boot no blog Okta Developer.
 
 To run the server, cd into the `server` folder and run `mvn spring-boot:run`.
 
